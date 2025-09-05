@@ -13,12 +13,6 @@ Law enforcement and forensic partners are engaged in the ongoing investigation.
 
 The Treasury breach is treated as a deliberate, coordinated act by insiders. TechSphere will take all measures to safeguard its financial systems, restore trust, and ensure accountability. — TechSphere Corporate Management.
 
-This repository contains the first records relating to the breach:
-
-timeline.txt → official sequence of events as reconstructed from logs
-incident_report.md → preliminary narrative of what was observed
-metadata.json → technical notes highlighting system anomalies
-
 ## Guidance for Investigators ##
 
 - Treat this as the starting point of the investigation.
