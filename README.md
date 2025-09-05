@@ -16,3 +16,8 @@ Richitha – observed connecting a USB device to the CFO’s terminal near the b
 Vishal – found in possession of USB logs consistent with the Treasury activity.
 Shaswanth – recorded near the Treasury wing during the time of the incident despite unrelated duties.
 While other employees were present in the building, these individuals present the strongest correlation to the timeline of the theft.
+
+TechSphere systems remain fundamentally secure; this incident stems from malicious insider actions, not external attackers.Immediate suspensions have been enacted for key suspects.Law enforcement and forensic partners are engaged in the ongoing investigation.
+
+The Treasury breach is treated as a deliberate, coordinated act by insiders. TechSphere will take all measures to safeguard its financial systems, restore trust, and ensure accountability.
+— TechSphere Corporate Management
