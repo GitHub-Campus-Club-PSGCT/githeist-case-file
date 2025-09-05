@@ -2,27 +2,27 @@
   "notes": [
     {
       "field": "Shaswanth CCTV (12:08 AM)",
-      "observation": "Maintenance tickets from the same hour exist, but CCTV shows him in Treasury hall. Which record was altered?"
+      "observation": "Maintenance tickets from the same hour exist, but CCTV shows him in Treasury hall"
     },
     {
       "field": "USB evidence (Vishal)",
-      "observation": "Forensic timestamps on the USB logs are newer than the actual transfer. Someone planted them later."
+      "observation": "Forensic timestamps on the USB logs are newer than the actual transfer."
     },
     {
       "field": "Badge entry (Thejas, 12:15 AM)",
-      "observation": "CCTV feed shows him in the lobby. Badge system indicates Treasury access. Two truths cannot coexist."
+      "observation": "CCTV feed shows him in the lobby. Badge system indicates Treasury access."
     },
     {
       "field": "OTP behavior",
-      "observation": "At 12:13 AM, CFO terminal requested OTP. Same second, Treasury system used OTP from ‘unknown device’. Split stream?"
+      "observation": "At 12:13 AM, CFO terminal requested OTP. Same second, Treasury system used OTP from ‘unknown device’."
     },
     {
       "field": "Email (Rizvi, 12:20 AM)",
-      "observation": "Digital signature valid, but IP trace points to internal test server instead of Rizvi’s workstation."
+      "observation": "Email sent from Rizvi's computer.Spotify shows she was streaming music."
     },
     {
       "field": "Commit anomaly",
-      "observation": "12:15 AM corrupted commit tagged to Abbilash, but originating machine ID matches another engineer’s server."
+      "observation": "12:15 AM corrupted commit tagged to Abbilash."
     }
   ],
   "hints": {
