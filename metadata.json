@@ -30,3 +30,35 @@
     "reminder": "Cross-check logs across different files. Single-source truths are unreliable."
   }
 }
+
+
+//optional metadata information
+{
+  "notes": [
+    {
+      "field": "Treasury Logs",
+      "observation": "OTP request and badge entry overlap within the same second."
+    },
+    {
+      "field": "CCTV Records",
+      "observation": "Lobby and Treasury feeds show hash mismatches."
+    },
+    {
+      "field": "USB Token",
+      "observation": "Mount event recorded at /mnt/cakebox around 12:15 AM."
+    },
+    {
+      "field": "Email Transmission",
+      "observation": "Email confirmation logged at 12:20 AM from internal server address."
+    },
+    {
+      "field": "Source Control",
+      "observation": "Commit recorded at 12:15 AM during Treasury activity window."
+    }
+  ],
+  "hints": {
+    "pattern": "Some records conflict or overlap.",
+    "reminder": "Further repositories may clarify inconsistencies."
+  }
+}
+ 
