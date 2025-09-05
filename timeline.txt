@@ -1,0 +1,16 @@
+Treasury Incident Timeline
+
+[Night of the Heist]
+00:03 AM : Alarm flickers (marked as glitch by security)
+12:05 AM : Richitha plugged a USB into CFO's terminal (claimed "memes")
+12:08 AM : Shashwath seen near the Treasury wing 
+12:10 AM : Jayasurya deployed funds_transfer.py in company repo
+12:12 AM : Kanishka walked into CFO office with a "birthday cake"
+12:13 AM : USB mounted: /mnt/cakebox → Treasury logs show OTP + token validation
+12:15 AM : Treasury Badge Entry--> Thejas (CCTV mismatch noted) + one commit of Abhilash was corrupted
+12:17 AM : Darshan deleted 7 key logs
+12:20 AM : Email sent from Rizvi's account stating "Funds moved. Transfer confirmed".
+
+[Post-Heist Actions]
+06:00 AM : Treasury deficit discovered: ₹50 Crores missing.
+06:30 AM : Audit initiated; Vishal’s USB found in drawer with suspicious logs.
