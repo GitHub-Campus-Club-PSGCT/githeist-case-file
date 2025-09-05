@@ -1,32 +1,31 @@
-Night of the Heist - Management's Official Statement
+# Company Overview #
+TechSphere Corporation is a leading financial technology firm specializing in secure digital transactions and treasury management.  
+The company operates a centralized Treasury System that handles high-value transfers, protected by multiple layers of security including badge authentication, dynamic OTP verification, and hardware USB tokens.  
 
-On the night of September 4, at approximately 00:03 AM, the Treasury System at TechSphere Corporation experienced a brief disruption. At the time, this anomaly was dismissed by security as a minor glitch.
+One night the system was compromised, resulting in the disappearance of ₹50 Crores (~$6 Million).  
+This repository contains the **first set of records** relating to the breach.  
 
-By 06:00 AM, Treasury staff reported a missing balance of ₹50 Crores (~$6 Million USD). No signs of forced entry were discovered. Physical locks, vault access controls, and external network defenses showed no breach.
+---
 
-Instead, the evidence strongly suggests the funds were siphoned internally using legitimate credentials and security layers:
-1.Employee badge authentication
-2.Dynamic OTP generated on the CFO’s terminal
-3.Hardware USB token authorization
-These controls were bypassed in sequence, which implies insider knowledge and collusion.
+## Employees Present During the Night of the Heist
+The following 10 employees were inside the premises during the time of the incident. Each played a specific role in daily operations:  
 
-There were 10 employees inside the premises during the time of the heist and so it is being treated as an inside operation.
+- **Richitha** – Works in IT support, frequently assists executives with system access and device troubleshooting.  
+- **Shaswanth** – System maintenance engineer, responsible for late-night patches and infrastructure upkeep.  
+- **Kanishka** – Administrative staff, often handles scheduling, office logistics, and employee welfare activities.  
+- **Jayasurya** – Software developer, manages internal scripts and deployment processes for treasury operations.  
+- **Vishal** – Security operations analyst, monitors USB device activity and access control systems.  
+- **Rizvi** – Corporate communications officer, manages executive correspondence and internal announcements.  
+- **Thejas** – Facilities and security coordinator, oversees employee badge access and physical security.  
+- **Abbilash** – Backend engineer, responsible for maintaining transaction logging and database integrity.  
+- **Dhaarun** – Research associate, works on data modeling, encryption methods, and financial automation tools.  
+- **Darshan** – Junior systems admin, tasked with server housekeeping and log maintenance.  
 
-Law enforcement and forensic partners are engaged in the ongoing investigation.
+---
 
-The Treasury breach is treated as a deliberate, coordinated act by insiders. TechSphere will take all measures to safeguard its financial systems, restore trust, and ensure accountability.
-— TechSphere Corporate Management.
+## Repository Contents
+- **timeline.txt** → Official sequence of events as reconstructed from management logs.  
+- **incident_report.md** → Preliminary narrative of what was observed.  
+- **metadata.json** → Technical notes highlighting system anomalies.  
 
-This repository contains the first records relating to the breach:
 
-- `timeline.txt` → official sequence of events as reconstructed from logs  
-- `incident_report.md` → preliminary narrative of what was observed  
-- `metadata.json` → technical notes highlighting system anomalies 
-
-## Guidance for Investigators
-
-- Treat this as the **starting point** of the investigation.  
-- Management emphasizes that **no single record should be taken as absolute truth**.  
-- Cross-verification with supporting evidence in other files will be required to establish accountability.  
-
-Further repositories will provide deeper technical data for analysis.
