@@ -1,30 +1,27 @@
-# Incident Report – Treasury Breach  
+# Incident Report – Treasury Breach  #
 
-**Date:** September 4, 2025  
-**Location:** TechSphere Headquarters – Treasury Wing  
-**Report Type:** Internal Case Narrative  
+By 06:00 AM, Treasury staff reported a missing balance of ₹50 Crores (~$6 Million USD). No signs of forced entry were discovered. Physical locks, vault access controls, and external network defenses showed no breach.
 
-At 00:03 AM, Treasury systems recorded a brief flicker of activity. Alarm indicators flashed, then stabilized. Security staff on duty dismissed it as a transient fault.
+Instead, the evidence strongly suggests the funds were siphoned internally using legitimate credentials and security layers: 
+1. Employee badge authentication
+2. Dynamic OTP generated on the CFO’s terminal 
+3. Hardware USB token authorization These controls were bypassed in sequence, which implies insider knowledge and collusion.
 
-Between 12:05 AM and 12:10 AM, movement near the CFO’s office was recorded. Richitha was observed connecting a USB drive to the CFO’s terminal, reportedly to share files. Around the same window, Shaswanth appeared on Treasury corridor CCTV while maintenance logs attributed activity in that area to scheduled IT checks.
+There were 10 employees inside the premises during the time of the heist and so it is being treated as an inside operation.
 
-At 12:10 AM, the CFO’s workstation generated a one-time password (OTP). Within seconds, Treasury records show the same OTP applied to authorize a command. Meanwhile, internal messaging logs indicate normal activity by employees elsewhere, including Jayasurya, who committed a code change at nearly the same time.
+Law enforcement and forensic partners are engaged in the ongoing investigation.
 
-By 12:12 AM, Kanishka was logged entering the CFO’s office carrying a small package. Minutes later, Treasury systems detected the mounting of a USB device under the alias /mnt/cakebox.
+The Treasury breach is treated as a deliberate, coordinated act by insiders. TechSphere will take all measures to safeguard its financial systems, restore trust, and ensure accountability. — TechSphere Corporate Management.
 
-At 12:15 AM, the Treasury badge system shows Thejas swiping into the secured wing. CCTV, however, places him in the lobby. Concurrently, a repository commit attributed to Abbilash appeared corrupted upon inspection.
+This repository contains the first records relating to the breach:
 
-At 12:17 AM, several Treasury logs were deleted. Surviving fragments read:
-12:15:44 AUTH SUCCESS  
-12:15:45 USB mount detected  
-12:15:46 INITIATING TRANSFER: 50,00,00,000.00
+timeline.txt → official sequence of events as reconstructed from logs
+incident_report.md → preliminary narrative of what was observed
+metadata.json → technical notes highlighting system anomalies
 
-At 12:20 AM, an internal email confirming that the transfer had been completed was circulated under Rizvi’s name. The digital signature was valid, but the origin traced back to an internal test server operated by Darshan.
+## Guidance for Investigators ##
 
-By 06:00 AM, Treasury staff discovered that ₹50 Crores were missing. Physical inspection revealed no signs of forced entry.
-
-## Status ##
-The event remains under classification as a coordinated insider operation. Further analysis is ongoing. Cross-referencing across departments and systems will be required before establishing accountability.
-Supporting files in this repository:
-timeline.txt – official chronological record 
-metadata.json – flagged technical anomalies
+Treat this as the starting point of the investigation.
+Management emphasizes that no single record should be taken as absolute truth.
+Cross-verification with supporting evidence in other files will be required to establish accountability.
+Further repositories will provide deeper technical data for analysis.
