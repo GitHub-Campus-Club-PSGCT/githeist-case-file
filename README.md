@@ -5,9 +5,9 @@ The company operates a centralized Treasury System that handles high-value trans
 One night the system was compromised, resulting in the disappearance of ₹50 Crores (~$6 Million).  
 This repository contains the **first set of records** relating to the breach.  
 
----
 
-## Employees Present During the Night of the Heist
+
+# Employees Present During the Night of the Heist #
 The following 10 employees were inside the premises during the time of the incident. Each played a specific role in daily operations:  
 
 - **Richitha** – Works in IT support, frequently assists executives with system access and device troubleshooting.  
@@ -21,9 +21,9 @@ The following 10 employees were inside the premises during the time of the incid
 - **Dhaarun** – Research associate, works on data modeling, encryption methods, and financial automation tools.  
 - **Darshan** – Junior systems admin, tasked with server housekeeping and log maintenance.  
 
----
 
-## Repository Contents
+
+# Repository Contents #
 - **timeline.txt** → Official sequence of events as reconstructed from management logs.  
 - **incident_report.md** → Preliminary narrative of what was observed.  
 - **metadata.json** → Technical notes highlighting system anomalies.  
