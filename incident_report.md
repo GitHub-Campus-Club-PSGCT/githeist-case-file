@@ -21,8 +21,8 @@ metadata.json → technical notes highlighting system anomalies
 
 ## Guidance for Investigators ##
 
--Treat this as the starting point of the investigation.
--Management emphasizes that no single record should be taken as absolute truth.
--Cross-verification with supporting evidence in other files will be required to establish accountability.
+- Treat this as the starting point of the investigation.
+- Management emphasizes that no single record should be taken as absolute truth.
+- Cross-verification with supporting evidence in other files will be required to establish accountability.
 
 Further repositories will provide deeper technical data for analysis.
