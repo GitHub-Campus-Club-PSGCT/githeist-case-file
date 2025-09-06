@@ -1,7 +1,23 @@
 Treasury Incident Timeline
 
+[Day of the Heist]
+09:00 AM : Employees begin arriving at TechSphere HQ.  
+09:15 AM : CFO logs into Treasury system for daily balance checks. 
+10:00 AM : Routine patching completed by Shaswanth (infrastructure team).  
+11:30 AM : Darshan runs scheduled server cleanups (standard log rotation).  
+12:30 PM : Regular treasury transfers processed (all < ₹10 Lakhs). 
+01:00 PM : Lunch break, staggered across departments.  
+03:00 PM : Vishal conducts USB monitoring audit; no anomalies recorded.  
+04:45 PM : Richitha provides system support to CFO, minor desktop fix.  
+05:30 PM : End of official work hours. Several employees stay back for project deadlines.  
+06:15 PM : Kanishka circulates notice about CFO’s birthday, plans to bring cake at midnight.  
+07:00 PM : Abhilash pushes updates to logging module.  
+08:20 PM : Dhaarun works on encryption spreadsheet (saved to shared drive).  
+09:30 PM : Rizvi schedules internal communications draft for next morning.  
+10:00 PM : Security confirms badge access logs reset successfully. 
+
 [Night of the Heist]
-00:03 AM : Alarm flickers
+00:03 AM : Treasury alarm flickers breifly
 12:05 AM : Richitha plugged a USB into CFO's terminal 
 12:08 AM : Shashwath seen near the Treasury wing 
 12:10 AM : Jayasurya deployed funds_transfer.py in company repo
