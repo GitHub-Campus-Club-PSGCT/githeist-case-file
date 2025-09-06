@@ -11,7 +11,7 @@ Treasury Incident Timeline
 04:45 PM : Richitha provides system support to CFO, minor desktop fix.  
 05:30 PM : End of official work hours. Several employees stay back for project deadlines.  
 06:15 PM : Kanishka circulates notice about CFO’s birthday, plans to bring cake at midnight.  
-07:00 PM : Abhilash pushes updates to logging module.  
+07:00 PM : Abbilaash pushes updates to logging module.  
 08:20 PM : Dhaarun works on encryption spreadsheet (saved to shared drive).  
 09:30 PM : Rizvi schedules internal communications draft for next morning.  
 10:00 PM : Security confirms badge access logs reset successfully. 
@@ -23,7 +23,7 @@ Treasury Incident Timeline
 12:10 AM : Jayasurya deployed funds_transfer.py in company repo
 12:12 AM : Kanishka walked into CFO office with a "birthday cake"
 12:13 AM : USB mounted: /mnt/cakebox → Treasury logs show OTP + token validation
-12:15 AM : Treasury Badge Entry--> Thejas  + one commit by Abhilash was corrupted
+12:15 AM : Treasury Badge Entry--> Thejas  + one commit by Abbilaash was corrupted
 12:17 AM : Darshan deleted 7 key logs
 12:20 AM : Email sent from Rizvi's account stating "Funds moved. Transfer confirmed".
 
