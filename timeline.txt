@@ -2,19 +2,37 @@ Treasury Incident Timeline
 
 [Day of the Heist]
 09:00 AM : Employees begin arriving at TechSphere HQ.  
+09:05 AM : **Anitha (HR)** logs attendance and circulates payroll updates.  
 09:15 AM : CFO logs into Treasury system for daily balance checks. 
-10:00 AM : Routine patching completed by Shaswanth (infrastructure team).  
+09:30 AM : **Pradeep (Cafeteria Staff)** delivers morning refreshments to finance floor.  
+09:40 AM : Tejas inspects badge readers in the lobby for routine maintenance.  
+10:00 AM : Routine patching completed by Shashwath (infrastructure team).  
+10:20 AM : Vishal reviews firewall logs, reports “all clear.”  
+11:00 AM : **Meena (Reception)** registers two external visitors for client demo.  
 11:30 AM : Darshan runs scheduled server cleanups (standard log rotation).  
+12:00 PM : Abbilaash tests updated logging module on dev servers.  
 12:30 PM : Regular treasury transfers processed (all < ₹10 Lakhs). 
 01:00 PM : Lunch break, staggered across departments.  
+01:15 PM : **Rohit (Finance Intern)** double-checks payment vouchers for petty cash.  
+02:15 PM : Richitha replaces a faulty mouse in the finance department.  
 03:00 PM : Vishal conducts USB monitoring audit; no anomalies recorded.  
+03:30 PM : **Anitha (HR)** circulates notice on late-shift allowances.  
+03:45 PM : Rizvi drafts internal communication about upcoming client demo.  
+04:30 PM : **Pradeep** restocks pantry for employees working late. 
 04:45 PM : Richitha provides system support to CFO, minor desktop fix.  
+05:10 PM : Darshan reboots backup server after storage warning.  
 05:30 PM : End of official work hours. Several employees stay back for project deadlines.  
 06:15 PM : Kanishka circulates notice about CFO’s birthday, plans to bring cake at midnight.  
+06:45 PM : Jayasurya pushes UI bugfix commits to repo.  
 07:00 PM : Abbilaash pushes updates to logging module.  
+07:30 PM : Tejas inspects Treasury corridor CCTV camera wiring.  
 08:20 PM : Dhaarun works on encryption spreadsheet (saved to shared drive).  
+08:45 PM : Shashwath applies routine hotfix to test server.  
+09:15 PM : **Meena** signs out after front desk closing shift.  
 09:30 PM : Rizvi schedules internal communications draft for next morning.  
+09:50 PM : Vishal notes unusual USB alert but dismisses it as testing.  
 10:00 PM : Security confirms badge access logs reset successfully. 
+10:30 PM : Darshan leaves breakroom lights on, logged by facilities.  
 
 [Night of the Heist]
 00:03 AM : Treasury alarm flickers breifly
