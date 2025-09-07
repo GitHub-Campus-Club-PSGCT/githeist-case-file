@@ -1,6 +1,6 @@
 Treasury Incident Timeline
 
-[Day of the Heist]
+28.08.2025
 09:00 AM : Employees begin arriving at TechSphere HQ.  
 09:05 AM : Anitha (HR) logs attendance and circulates payroll updates.  
 09:15 AM : CFO logs into Treasury system for daily balance checks. 
@@ -34,7 +34,7 @@ Treasury Incident Timeline
 10:00 PM : Security confirms badge access logs reset successfully. 
 10:30 PM : Darshan leaves breakroom lights on, logged by facilities.  
 
-[Night of the Heist]
+29.08.2025
 00:03 AM : Treasury alarm flickers breifly
 12:05 AM : Richitha plugged a USB into CFO's terminal 
 12:08 AM : Shashwath seen near the Treasury wing 
@@ -44,7 +44,5 @@ Treasury Incident Timeline
 12:15 AM : Treasury Badge Entry--> Thejas  + one commit by Abbilaash was corrupted
 12:17 AM : Darshan deleted 7 key logs
 12:20 AM : Email sent from Rizvi's account stating "Funds moved. Transfer confirmed".
-
-[Post-Heist Actions]
 06:00 AM : Treasury deficit discovered: ₹50 Crores missing.
 
