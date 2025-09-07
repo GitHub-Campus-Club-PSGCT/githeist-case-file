@@ -1,6 +1,6 @@
 # Company Overview #
 TechSphere Corporation is a leading financial technology firm specializing in secure digital transactions and treasury management.  
-The company operates a centralized Treasury System that handles high-value transfers, protected by multiple layers of security including badge authentication of CFO, and System PIN.  
+The company operates a centralized Treasury System that handles high-value transfers, protected by multiple layers of security including badge authentication of CFO, and Transaction Authorization Code.  
 
 One night the system was compromised, resulting in the disappearance of ₹50 Crores (~$6 Million).  
 This repository contains the **first set of records** relating to the breach.  
