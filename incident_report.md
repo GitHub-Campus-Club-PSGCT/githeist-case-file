@@ -11,7 +11,7 @@ There were 10 employees inside the premises during the time of the heist and so 
 
 Law enforcement and forensic partners are engaged in the ongoing investigation.
 
-The Treasury breach is treated as a deliberate, coordinated act by insiders. TechSphere will take all measures to safeguard its financial systems, restore trust, and ensure accountability. — TechSphere Corporate Management.
+The Treasury breach is treated as a deliberate, coordinated act by insiders. TechSphere will take all measures to safeguard its financial systems, restore trust, and ensure accountability. 
 
 ## Guidance for Investigators ##
 
