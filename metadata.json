@@ -1,32 +1,64 @@
 {
-  "notes": [
+  "company": "TechSphere Corporation",
+  "case_overview": {
+    "incident": "Breach of Treasury System resulting in disappearance of ₹50 Crores (~$6 Million)",
+    "system_security": [
+      "Badge authentication of CFO",
+      "Transaction Authorization Code (TAC)"
+    ],
+    "incident_type": "System Compromise",
+    "incident_status": "Under Investigation"
+  },
+  "employees_present": [
     {
-      "field": "Shaswanth CCTV (12:08 AM)",
-      "observation": "Maintenance tickets from the same hour exist, but CCTV shows him in Treasury hall"
+      "id": "TS-1042",
+      "name": "Richitha",
+      "role": "IT Support"
     },
     {
-      "field": "USB evidence (Vishal)",
-      "observation": "Forensic timestamps on the USB logs are newer than the actual transfer."
+      "id": "TS-1075",
+      "name": "Shashwath",
+      "role": "System Maintenance Engineer"
     },
     {
-      "field": "Badge entry (Tejas, 12:15 AM)",
-      "observation": "CCTV feed shows him in the lobby. Badge system indicates Treasury access."
+      "id": "TS-1091",
+      "name": "Kanishka",
+      "role": "Administrative Staff"
     },
     {
-      "field": "Email (Rizvi, 12:20 AM)",
-      "observation": "Email sent from Rizvi's computer.Spotify shows she was streaming music."
+      "id": "TS-1057",
+      "name": "Jayasurya",
+      "role": "Software Developer"
     },
     {
-      "field": "Commit anomaly",
-      "observation": "12:15 AM corrupted commit tagged to Abbilash."
+      "id": "TS-1068",
+      "name": "Vishal",
+      "role": "Security Operations Analyst"
     },
     {
-      "field": "Treasury Logs",
-      "observation": "OTP request and badge entry overlap within the same second."
+      "id": "TS-1083",
+      "name": "Rizvi",
+      "role": "Corporate Communications Officer"
+    },
+    {
+      "id": "TS-1049",
+      "name": "Tejas",
+      "role": "Assistant to the CFO"
+    },
+    {
+      "id": "TS-1102",
+      "name": "Abbilaash",
+      "role": "Backend Engineer"
+    },
+    {
+      "id": "TS-1036",
+      "name": "Dhaarun",
+      "role": "Research Associate"
+    },
+    {
+      "id": "TS-1097",
+      "name": "Darshan",
+      "role": "Systems Admin"
     }
-  ],
-  "hints": {
-    "pattern": "When evidence contradicts itself, one of the records has been tampered with.",
-    "reminder": "Cross-check logs across different files. Single-source truths are unreliable."
-  }
+  ]
 }
