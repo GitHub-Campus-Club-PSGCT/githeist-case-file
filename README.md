@@ -16,10 +16,10 @@ The following 10 employees were inside the premises during the time of the incid
 - **Jayasurya** – Software developer, manages internal scripts and deployment processes for treasury operations.  
 - **Vishal** – Security operations analyst, monitors USB device activity and access control systems.  
 - **Rizvi** – Corporate communications officer, manages executive correspondence and internal announcements.  
-- **Tejas** – Facilities and security coordinator, oversees employee badge access and physical security.  
+- **Tejas** – Assistant to the CFO, responsible for handling the CFO’s schedules, badge access requests, and physical security coordination for executive areas.
 - **Abbilaash** – Backend engineer, responsible for maintaining transaction logging and database integrity.  
 - **Dhaarun** – Research associate, works on data modeling, encryption methods, and financial automation tools.  
-- **Darshan** – Junior systems admin, tasked with server housekeeping and log maintenance.  
+- **Darshan** – Systems admin, tasked with server housekeeping and log maintenance.  
 
 
 
