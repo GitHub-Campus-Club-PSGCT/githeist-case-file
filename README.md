@@ -1,6 +1,6 @@
 # Company Overview #
 TechSphere Corporation is a leading financial technology firm specializing in secure digital transactions and treasury management.  
-The company operates a centralized Treasury System that handles high-value transfers, protected by multiple layers of security including badge authentication, dynamic OTP verification, and hardware USB tokens.  
+The company operates a centralized Treasury System that handles high-value transfers, protected by multiple layers of security including badge authentication of CFO, and System PIN.  
 
 One night the system was compromised, resulting in the disappearance of ₹50 Crores (~$6 Million).  
 This repository contains the **first set of records** relating to the breach.  
@@ -8,7 +8,7 @@ This repository contains the **first set of records** relating to the breach.
 
 
 # Employees Present During the Night of the Heist #
-The following 10 employees were inside the premises during the time of the incident. Each played a specific role in daily operations:  
+The following 10 employees were inside the premises during the time of the incident. 
 
 - **Richitha** – Works in IT support, frequently assists executives with system access and device troubleshooting.  
 - **Shashwath** – System maintenance engineer, responsible for late-night patches and infrastructure upkeep.  
