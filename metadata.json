@@ -13,22 +13,22 @@
     {
       "id": "TS-1042",
       "name": "Richitha",
-      "role": "IT Support"
+      "role": "Finance Systems Support Specialist"
     },
     {
       "id": "TS-1075",
       "name": "Shashwath",
-      "role": "Systems Engineer"
+      "role": "Financial Systems Engineer"
     },
     {
       "id": "TS-1091",
       "name": "Kanishka",
-      "role": "Administrative Staff"
+      "role": "Fund Management Officer"
     },
     {
       "id": "TS-1057",
       "name": "Jayasurya",
-      "role": "Software Developer"
+      "role": "Financial Software Developer"
     },
     {
       "id": "TS-1068",
@@ -38,7 +38,7 @@
     {
       "id": "TS-1083",
       "name": "Rizvi",
-      "role": "Finance Communication"
+      "role": "Finance Communications Officer"
     },
     {
       "id": "TS-1049",
@@ -48,17 +48,17 @@
     {
       "id": "TS-1102",
       "name": "Abbilaash",
-      "role": "Backend Engineer"
+      "role": "Backend Finance Systems Engineer"
     },
     {
       "id": "TS-1036",
       "name": "Dhaarun",
-      "role": "Research Associate"
+      "role": "Financial Research Associate"
     },
     {
       "id": "TS-1097",
       "name": "Darshan",
-      "role": "Systems Admin"
+      "role": "Financial Systems Administrator"
     }
   ]
 }
