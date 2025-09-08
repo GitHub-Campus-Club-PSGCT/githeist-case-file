@@ -3,7 +3,7 @@
   "case_overview": {
     "incident": "Breach of Treasury System resulting in disappearance of ₹50 Crores (~$6 Million)",
     "system_security": [
-      "Badge authentication of CFO",
+      "Badge authentication",
       "Transaction Authorization Code (TAC)"
     ],
     "incident_type": "System Compromise",
@@ -18,7 +18,7 @@
     {
       "id": "TS-1075",
       "name": "Shashwath",
-      "role": "System Maintenance Engineer"
+      "role": "Systems Engineer"
     },
     {
       "id": "TS-1091",
@@ -33,12 +33,12 @@
     {
       "id": "TS-1068",
       "name": "Vishal",
-      "role": "Security Operations Analyst"
+      "role": "Security Analyst"
     },
     {
       "id": "TS-1083",
       "name": "Rizvi",
-      "role": "Corporate Communications Officer"
+      "role": "Finance Communication"
     },
     {
       "id": "TS-1049",
