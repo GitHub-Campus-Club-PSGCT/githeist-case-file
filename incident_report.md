@@ -11,9 +11,4 @@ These controls were bypassed in sequence, which implies insider knowledge and co
 There were 10 employees inside the premises during the time of the heist and so it is being treated as an inside operation.
 
 
-## Guidance for Investigators ##
 
-- Treat this as the starting point of the investigation.
-- Cross-verification with supporting evidence in other files will be required to establish accountability.
-
-Further repositories will provide deeper technical data for analysis.
