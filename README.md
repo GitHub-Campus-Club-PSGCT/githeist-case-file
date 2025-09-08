@@ -7,36 +7,50 @@ This repository contains the **first set of records** relating to the breach.
 
 
 
+
+
 Employees Present During the Night of the Heist
 
+
+
 -Richitha – IT Support
+
 Handles system access and provides tech support for finance staff.
 
 -Shashwath – Systems Engineer
+
 Maintains and patches financial transaction systems.
 
 -Kanishka – Admin Staff
+
 Manages scheduling, fund records, and supports finance operations.
 
 -Jayasurya – Software Developer
+
 Builds and manages internal financial tools and automation scripts.
 
 -Vishal – Security Analyst
+
 Oversees transaction security, badge access, and system monitoring.
 
 -Rizvi – Finance Communications
+
 Handles executive correspondence, announcements, and financial reporting.
 
 -Tejas – CFO’s Assistant
+
 Manages the CFO’s schedule, office access permissions, and confidential documents.
 
 -Abbilaash – Backend Engineer
+
 Maintains databases, transaction logs, and backend data integrity.
 
 -Dhaarun – Research Associate
+
 Works on financial data modeling, encryption experiments, and automation projects.
 
 -Darshan – Systems Admin
+
 Maintains servers and system logs.
 
 
