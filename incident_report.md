@@ -1,6 +1,6 @@
 # Incident Report – Treasury Breach  #
 
-By 06:00 AM, Treasury staff reported a missing balance of ₹50 Crores (~$6 Million USD). No signs of forced entry were discovered. Physical locks, vault access controls, and external network defenses showed no breach.
+By 06:00 AM, the CFO reported a missing balance of ₹50 Crores (~$6 Million USD). No signs of forced entry were discovered. Physical locks, vault access controls, and external network defenses showed no breach.
 
 Instead, the evidence strongly suggests the funds were siphoned internally using legitimate credentials and security layers: 
 1. Badge authentication
