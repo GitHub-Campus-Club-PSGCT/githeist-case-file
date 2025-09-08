@@ -55,5 +55,10 @@ Maintains servers and system logs.
 
 
 
+## Guidance for Investigators ##
 
+- Treat this as the starting point of the investigation.
+- Cross-verification with supporting evidence in other files will be required to establish accountability.
+
+Further repositories will provide deeper technical data for analysis.
 
